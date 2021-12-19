@@ -4,9 +4,9 @@
 
 ## Features
 
-* :white_check_mark: Webpack `v4.43.0`
+* :white_check_mark: Webpack `v5.65.0`
 * :white_check_mark: tcomb `v3.2.29`
-* :white_check_mark: Babel (Core) `v7.10.2`
+* :white_check_mark: Babel (Core) `v7.16.5`
 
 ## How it's works?
 
@@ -41,4 +41,4 @@
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2016
+[The MIT License](http://piecioshka.mit-license.org) @ 2016-2021
