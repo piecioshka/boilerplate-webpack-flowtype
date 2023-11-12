@@ -4,9 +4,9 @@
 
 ## Features
 
-* :white_check_mark: Webpack `v5.65.0`
-* :white_check_mark: tcomb `v3.2.29`
-* :white_check_mark: Babel (Core) `v7.16.5`
+* :white_check_mark: Webpack
+* :white_check_mark: tcomb
+* :white_check_mark: Babel (Core)
 
 ## How it's works?
 
