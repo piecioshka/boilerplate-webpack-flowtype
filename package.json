@@ -38,6 +38,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/piecioshka/boilerplate-webpack-flowtype"
+        "url": "git+https://github.com/piecioshka/boilerplate-webpack-flowtype.git"
     }
 }
